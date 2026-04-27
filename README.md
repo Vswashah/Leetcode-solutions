@@ -11,7 +11,6 @@ The repository is maintained as a coding archive for interview preparation and p
 arrays/
 strings/
 linked-list/
-trees/
 sql/
 js/
 
